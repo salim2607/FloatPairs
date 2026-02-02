@@ -7,19 +7,19 @@ Ce projet implémente le problème d'optimisation **FloatPairs** en utilisant le
 ## ✅ TODO List - Suivi des Tâches
 
 ### Phase 1 : Implémentation du Problème
-- [ ] Créer la classe `FloatPairsMax` héritant de `Problem`
-- [ ] Implémenter la méthode `__init__`
-- [ ] Implémenter la méthode `evaluate` (comptage des paires)
-- [ ] Implémenter la méthode `create_solution`
-- [ ] Tester le problème avec des exemples simples
+- [x] Créer la classe `FloatPairsMax` héritant de `Problem`
+- [x] Implémenter la méthode `__init__`
+- [x] Implémenter la méthode `evaluate` (comptage des paires)
+- [x] Implémenter la méthode `create_solution`
+- [x] Tester le problème avec des exemples simples
 
 ### Phase 2 : Recherche Locale
-- [ ] Adapter le code pour la recherche locale
-- [ ] Configurer `PolynomialMutation`
-- [ ] Tester différents paramètres
-- [ ] Effectuer 20 runs de la recherche locale
-- [ ] Collecter les résultats (moyenne, médiane, écart-type, temps)
-- [ ] Créer des graphiques des résultats
+- [x] Adapter le code pour la recherche locale
+- [x] Configurer `PolynomialMutation`
+- [x] Tester différents paramètres
+- [x] Effectuer 20 runs de la recherche locale
+- [x] Collecter les résultats (moyenne, médiane, écart-type, temps)
+- [x] Créer des graphiques des résultats
 
 ### Phase 3 : Algorithme Génétique
 - [ ] Adapter le code pour l'algorithme génétique
